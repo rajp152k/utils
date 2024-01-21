@@ -8,7 +8,6 @@ Python 3.10+ as I'm using "|" instead of Unions when type hinting.
 `aplay` to ring the alarm.
 
 ``` bash
-chmod +x timer.py
 alias timer "python3 /<path-to-parent-dir>/timer.py"
 
 timer   -H <hours, default=0>   \
